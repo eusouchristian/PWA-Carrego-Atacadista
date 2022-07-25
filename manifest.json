@@ -1,0 +1,48 @@
+{
+"name": "Carrego Atacadista",
+"short_name": "Carrego Atacadista",
+"start_url": "https://www.carregoatacadista.com",
+"display": "fullscreen",
+"description": "Conheça o aplicativo CarreGo Atacadista de compras no atacado para acessorios de smartphone...",
+"lang": "pt-br",
+"dir": "auto",
+"theme_color": "#f8ca34",
+"background_color": "#ffffff",
+"orientation": "portrait",
+"icons": [
+    {
+        "src": "https://cdn.awsli.com.br/1618/1618737/arquivos/512x512 icons.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+    },
+    {
+        "src": "https://cdn.awsli.com.br/1618/1618737/arquivos/192x192 icons.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any"
+    }
+],
+"screenshots": [
+    {
+        "src": "https://cdn.awsli.com.br/1618/1618737/arquivos/screenshot%20web.png",
+        "sizes": "2880x1800",
+        "type": "image/png",
+        "description": "Uma captura de tela da página inicial."
+    }
+],
+"related_applications": [
+    {
+        "platform":"windows",
+        "url": " The URL to your app in that app store"
+    }
+],
+"prefer_related_applications": "false",
+"shortcuts": [
+    {
+        "name":"Carrego Atacadista",
+        "url":"https://www.carregoatacadista.com",
+        "description":"Conheça o aplicativo CarreGo Atacadista de compras no atacado para acessorios de smartphone..."
+    }
+]
+}
