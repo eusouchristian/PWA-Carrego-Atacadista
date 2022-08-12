@@ -2,7 +2,7 @@
 
 if ('serviceWorker' in navigator) {
   navigator.serviceWorker
-    .register('https://eusouchristian.github.io/PWA-Carrego-Atacadista/sw.js')
+    .register("https://eusouchristian.github.io/PWA-Carrego-Atacadista/sw.js")
     .then(() => { console.log('Service Worker Registered'); });
 }
 
